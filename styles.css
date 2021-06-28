@@ -26,6 +26,17 @@ body {
   border-radius: 20%;
 }
 
+.start{
+  height: 100px;
+  width: 40%;
+  border: 5px solid #011f9F;
+  border-radius: 50%;
+}
+
+h2{
+  font-size: 2rem;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
